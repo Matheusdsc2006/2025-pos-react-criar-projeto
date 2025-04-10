@@ -4,4 +4,4 @@ Público alvo: alunos da disciplina de POS (Programação Orientada a Serviços)
 
 Professor: [L A Minora](https://github.com/leonardo-minora)
 
-Aluno: [Matheus Duarte](https://github.com/Matheusdsc2006)
+Aluno: [Matheus Costa](https://github.com/Matheusdsc2006)
